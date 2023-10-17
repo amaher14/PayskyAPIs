@@ -1,0 +1,10 @@
+1 Run command update-database on Console at Infrastructure and the solution on apis to Get the Database 
+2 start regester with employer and applicant 
+3 login and you will recive a Bearer token authorize the apis (Swagger) with this token 
+Bearer (White Space) Token
+Start check all the Functionalities 
+
+
+About this point (There should be an archiving mechanism for expired vacancies.)
+i 've installed Hangfire but I had no time to Implement the Job But it's simple and about CQRS
+I have worked with it in Many Projects but didn't use it in this task.
